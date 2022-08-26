@@ -10,7 +10,7 @@
 `git clone git@github.com:JESUSBURGOSHUERTAS/Practica1Softca.git`
 - Luego nos ubicamos en la carpeta del proyecto:
 `cd Practica1Softca/`
-#####3. Crear (si no lo habéis creado ya) en vuestro repositorio local  un documento README.md.
+##### 3. Crear (si no lo habéis creado ya) en vuestro repositorio local  un documento README.md.
 
 - Creamos el archivo **README.md** con el siguiente comando:
 `touch README.md`
