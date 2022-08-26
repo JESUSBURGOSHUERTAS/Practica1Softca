@@ -17,7 +17,7 @@
 ##### 4. Añadir al README.md los comandos utilizados hasta ahora y hacer un commit inicial con el mensaje commit inicial.
 
 - Podemos usar vim o el editor preferido para editar el archivo y anexar los comandos:
-    ```markdown
+```markdown
 vim README.md
 git add .
 git commit -m "commit inicial"
